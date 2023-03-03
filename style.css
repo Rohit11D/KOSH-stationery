@@ -1,0 +1,91 @@
+body{
+    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #D8CDDB 50%);
+/* background-image: -webkit-linear-gradient(65deg,rgb(212, 242, 245)35% rgb(22, 191, 224) 30%, rgb(106, 215, 225) 35%); */
+ /* background-image: linear-gradient(to top,  rgb(22, 191, 224) ,rgb(184, 224, 227), rgb(22, 191, 224)); */
+}
+/* #navbarsection{ */
+    /* background-color:rgb(22, 191, 224) ; */
+/* } */
+.navpaddimg{
+    /* margin-left: 1rem; */
+    border-width:2px;
+    border-radius: 30%;
+    border-color: black;
+}
+.navpadd{
+    padding-left: 1rem;
+
+}
+#introduction{
+    margin-top:5rem;
+    margin-left:3rem;
+
+}
+#navbarsection{
+    background-color: #A683E3;
+}
+.navhover:hover{
+   
+    text-shadow: #A683E3 1px 0 10px;
+    }
+    .searchover:hover{
+         background-color: #D8CDDB; 
+    }
+    .searchbarbg,.searchover:hover{
+         background-color:  #D8CDDB; 
+    }
+.carousel-inner{
+    height: 30%;
+margin:60px auto 100px auto;
+width: 60%;
+}
+.text{
+    color: black;
+}
+
+.card:hover{
+    border-color: #A683E3;
+    text-decoration:underline;
+    width: 71%;
+   
+}
+.imgborder{
+    border-radius: 2%;
+}
+
+
+.card{
+    height:35%;
+    width: 68%;
+    margin: 50px auto 140px auto;
+    border-color: black;
+    text-align: center;
+    /* background-color: #A683E3; */
+}
+#stationaryItems{
+    margin: 40px auto;
+    /* background-color: #A683E3; */
+}
+.searchbar{
+    margin: auto;
+}
+/* .footalign{ */
+    /* align-items:self-end; */
+     /* text-align: center; */
+
+     #footer{
+        text-align: center;
+        
+        padding:6% ;
+      }
+      .ifooter{
+        padding: 6px;
+      }
+        
+
+
+
+
+
+
+
