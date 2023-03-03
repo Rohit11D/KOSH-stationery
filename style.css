@@ -72,6 +72,16 @@ width: 60%;
 /* .footalign{ */
     /* align-items:self-end; */
      /* text-align: center; */
+.d-flex {
+    margin: 0.7rem;
+}
+    @media screen and (max-width:415px){
+     .d-flex   {
+        width: 100%;
+       margin: 0.7rem;
+       position:relative;
+    }
+}
 
      #footer{
         text-align: center;
