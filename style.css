@@ -12,10 +12,17 @@ body{
     border-radius: 30%;
     border-color: black;
 }
+.nav-item{
+    padding-left:0.5rem;
+}
 .navpadd{
     padding-left: 1rem;
 
 }
+.navbar-toggler{
+    margin-left: 0.7rem;
+    width:4rem;
+  }
 #introduction{
     margin-top:5rem;
     margin-left:3rem;
@@ -37,7 +44,7 @@ body{
 .carousel-inner{
     height: 30%;
 margin:60px auto 100px auto;
-width: 60%;
+width: 94%;
 }
 .text{
     color: black;
@@ -66,12 +73,7 @@ width: 60%;
     margin: 40px auto;
     /* background-color: #A683E3; */
 }
-.searchbar{
-    margin: auto;
-}
-/* .footalign{ */
-    /* align-items:self-end; */
-     /* text-align: center; */
+
 .d-flex {
     margin: 0.7rem;
 }
