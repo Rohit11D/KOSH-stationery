@@ -94,6 +94,20 @@ width: 94%;
         padding: 6px;
       }
         
+.placeOrderbutton{
+    background-color: #A683E3;
+}
+
+.ordertext{
+    margin: 1rem;
+    background-color: #D8CDDB;
+    border-width:2px;
+    border-color: #A683E3;
+}
+.orderform{
+    width:60%; 
+    margin:2rem;
+}
 
 
 
